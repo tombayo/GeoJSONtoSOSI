@@ -1,0 +1,24 @@
+{
+  "name": "geojsontososi",
+  "version": "1.0.0",
+  "description": "Converter from GeoJSON to SOSI",
+  "main": "./src/GeoJSONtoSOSI.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tombayo/GeoJSONtoSOSI.git"
+  },
+  "keywords": [
+    "GeoJSON",
+    "SOSI"
+  ],
+  "author": "tombayo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tombayo/GeoJSONtoSOSI/issues"
+  },
+  "homepage": "https://github.com/tombayo/GeoJSONtoSOSI#readme"
+}
